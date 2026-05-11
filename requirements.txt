@@ -35,7 +35,6 @@ djangorestframework==3.16.1
 emoji==2.14.1
 et_xmlfile==2.0.0
 executing==2.2.0
-faiss-cpu==1.11.0.post1
 filelock==3.18.0
 filetype==1.2.0
 fire==0.7.1
